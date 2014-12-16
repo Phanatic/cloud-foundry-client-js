@@ -1,4 +1,4 @@
-## Cloud Foundry Client JS
+## Cloud Foundry Client
 
 A JavaScript based Cloud Foundry Api client targeting the v2 api.
 
